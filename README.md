@@ -1,0 +1,1 @@
+Little utility that launches VHS without EAC support. Intended to replace the VideoHorrorSociety.exe in the games folder
